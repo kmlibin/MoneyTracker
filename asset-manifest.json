@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MoneyTrackerApp/static/css/main.33c9f0db.css",
-    "main.js": "/MoneyTrackerApp/static/js/main.64716315.js",
-    "index.html": "/MoneyTrackerApp/index.html",
-    "main.33c9f0db.css.map": "/MoneyTrackerApp/static/css/main.33c9f0db.css.map",
-    "main.64716315.js.map": "/MoneyTrackerApp/static/js/main.64716315.js.map"
+    "main.css": "/MoneyTracker/static/css/main.33c9f0db.css",
+    "main.js": "/MoneyTracker/static/js/main.59467119.js",
+    "index.html": "/MoneyTracker/index.html",
+    "main.33c9f0db.css.map": "/MoneyTracker/static/css/main.33c9f0db.css.map",
+    "main.59467119.js.map": "/MoneyTracker/static/js/main.59467119.js.map"
   },
   "entrypoints": [
     "static/css/main.33c9f0db.css",
-    "static/js/main.64716315.js"
+    "static/js/main.59467119.js"
   ]
 }
