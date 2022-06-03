@@ -3,6 +3,8 @@
 
 This is a basic app for tracking how much an individual is spending - you can log in, add transactions, or delete transactions. Of course, you can view these transactions.
 
+- Firebase deploy: https://mymoney-56249.web.app/login
+
 ### Languages / Tools
 
 React, JavaScript, CSS modules, HTML
