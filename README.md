@@ -5,6 +5,10 @@ This is a basic app for tracking how much an individual is spending - you can lo
 
 - Firebase deploy: https://mymoney-56249.web.app/login
 
+#### login info: 
+* email: buttons@dev.com
+* pass: test123
+
 ### Languages / Tools
 
 React, JavaScript, CSS modules, HTML
